@@ -1,7 +1,7 @@
 ## Olá
 
 - 👋 Hi, I’m @felipegambini
-- 🌱 Atualmente aprendendo `Python`
+- 💻 Atualmente aprendendo `Python`
 - 🎓 Cursando Administração na UEM
 
 ## 📊 Stats
